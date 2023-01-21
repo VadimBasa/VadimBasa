@@ -35,7 +35,7 @@
 <h3 align="center">Мои сертификаты ⚡ </h3>
 <table>
   <tr>
-    <td><img src="https://github.com/VadimBasa/Certificate/1_certificateBasics.pdf" width="438" height="308" alt="1_certificateBasics.pdf"></td>
+    <td><img src="https://github.com/VadimBasa/Certificate/certificateBasik.pdf" width="438" height="308" alt="1_certificateBasics.pdf"></td>
     <td><img src="https://github.com/VadimBasa/Certificate/2_certificate_Spring.pdf" width="438" height="308" alt="2_certificate_Spring.pdf"></td>
   </tr>
   <tr>
