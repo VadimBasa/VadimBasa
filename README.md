@@ -39,7 +39,7 @@
     <td><img src="https://github.com/VadimBasa/Certificate/2_certificate_Spring.pdf" width="438" height="308" alt="2_certificate_Spring.pdf"></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/VadimBasa/Certificate/main/Diplom.jpg" width="438" height="308" alt="3_Diplom.jpg"></td>
+    <td><img src="https://github.com/VadimBasa/Certificate/Diplom.jpg" width="438" height="308" alt="3_Diplom.jpg"></td>
     <td><img src="https://github.com/VadimBasa/Certificate/4_DiplomAdd.jpg" width="438" height="308" alt="4_DiplomAdd.jpg"></td>
   </tr>
  <!--
