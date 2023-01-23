@@ -1,7 +1,7 @@
 <h1 align="">Приветствую,<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>  
-<h1 align="">Меня зовут <a href="https://github.com/VadimBasa" target="_blank">Вадим Басалаев</a>,
+<h1 align="">Меня зовут <a href="https://github.com/VadimBasa" target="_blank">Вадим Басалаев</a>,</h1>
 
-<h2 align="">разработчик backend на Java
+<h2 align="">разработчик backend на Java </h2>
 
 
 ## Вот, что я умею
@@ -35,12 +35,12 @@
 <h3 align="center">Мои сертификаты ⚡ </h3>
 <table>
   <tr>
-    <td><img src="https://github.com/VadimBasa/Certificate/main/certificateBasik.pdf" width="438" height="308" alt="1_certificateBasics.pdf"></td>
-    <td><img src="https://github.com/VadimBasa/Certificate/2_certificate_Spring.pdf" width="438" height="308" alt="2_certificate_Spring.pdf"></td>
+    <td><img src="https://github.com/VadimBasa/Certificate/blob/main/certificateBasik.pdf" width="438" height="308" alt="1_certificateBasics.pdf"></td>
+    <td><img src="https://github.com/VadimBasa/Certificate/blob/main/certificateSpring.pdf" width="438" height="308" alt="2_certificate_Spring.pdf"></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/VadimBasa/Certificate/Diplom.jpg" width="438" height="308" alt="3_Diplom.jpg"></td>
-    <td><img src="https://github.com/VadimBasa/Certificate/4_DiplomAdd.jpg" width="438" height="308" alt="4_DiplomAdd.jpg"></td>
+    <td><img src="https://github.com/VadimBasa/Certificate/blob/main/Diplom.jpg" width="438" height="308" alt="3_Diplom.jpg"></td>
+    <td><img src="https://github.com/VadimBasa/Certificate/blob/main/DiplomAdd.jpg" width="438" height="308" alt="4_Diplom_Add.jpg"></td>
   </tr>
  <!--
   <tr>
