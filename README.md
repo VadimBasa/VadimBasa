@@ -35,11 +35,11 @@
 <h3 align="center">Мои сертификаты ⚡ </h3>
 <table>
   <tr>
-    <td><img src="https://github.com/VadimBasa/Certificate/certificateBasik.pdf" width="438" height="308" alt="1_certificateBasics.pdf"></td>
+    <td><img src="https://github.com/VadimBasa/Certificate/main/certificateBasik.pdf" width="438" height="308" alt="1_certificateBasics.pdf"></td>
     <td><img src="https://github.com/VadimBasa/Certificate/2_certificate_Spring.pdf" width="438" height="308" alt="2_certificate_Spring.pdf"></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/VadimBasa/Certificate/3_Diplom.jpg" width="438" height="308" alt="3_Diplom.jpg"></td>
+    <td><img src="https://github.com/VadimBasa/Certificate/main/Diplom.jpg" width="438" height="308" alt="3_Diplom.jpg"></td>
     <td><img src="https://github.com/VadimBasa/Certificate/4_DiplomAdd.jpg" width="438" height="308" alt="4_DiplomAdd.jpg"></td>
   </tr>
  <!--
