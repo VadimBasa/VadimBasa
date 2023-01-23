@@ -35,12 +35,12 @@
 <h3 align="center">Мои сертификаты ⚡ </h3>
 <table>
   <tr>
-    <td><img src="https://github.com/VadimBasa/Certificate/blob/main/certificateBasik.pdf" width="438" height="308" alt="1_certificateBasics.pdf"></td>
-    <td><img src="https://github.com/VadimBasa/Certificate/blob/main/certificateSpring.pdf" width="438" height="308" alt="2_certificate_Spring.pdf"></td>
+    <td><img src="https://github.com/VadimBasa/Sertificate/blob/main/certificateBasik.pdf" width="438" height="308" alt="1_certificateBasics.pdf"></td>
+    <td><img src="https://github.com/VadimBasa/Sertificate/blob/main/certificateSpring.pdf" width="438" height="308" alt="2_certificate_Spring.pdf"></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/VadimBasa/Certificate/blob/main/Diplom.jpg" width="438" height="308" alt="3_Diplom.jpg"></td>
-    <td><img src="https://github.com/VadimBasa/Certificate/blob/main/DiplomAdd.jpg" width="438" height="308" alt="4_Diplom_Add.jpg"></td>
+    <td><img src="https://github.com/VadimBasa/Sertificate/blob/main/Diplom.jpg" width="438" height="308" alt="3_Diplom.jpg"></td>
+    <td><img src="https://github.com/VadimBasa/Sertificate/blob/main/DiplomAdd.jpg" width="438" height="308" alt="4_Diplom_Add.jpg"></td>
   </tr>
  <!--
   <tr>
