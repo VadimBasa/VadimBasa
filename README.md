@@ -26,6 +26,12 @@
 - Linux, Docker
 - TestContainers, Kubernetes, clouds
 
+## Мои проекты
+
+<h2 align=""> <a href="https://github.com/VadimBasa/FinalDiplom" target="_blank"> - Движок сервера для поиска слова из pdf-файлов </a></h2>
+<h2 align=""> <a href="https://github.com/VadimBasa/TargetManager" target="_blank"> - Менеджер задач. Сервер, управляющий списком дел по запросу клиента. </a></h2>
+<h2 align=""> <a href="https://github.com/VadimBasa/PersonalFinanceManager" target="_blank"> - Менеджер личных финансов. Сервер принимает запросы клиента и выдает расчет максимальных трат за период</a> </h2>
+
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mySkillsKit&layout=compact&hide=css,html)
 
